@@ -1,7 +1,10 @@
 prettify
 ========
 
-TOSBack 2 Audit prettify python script
+TOSBack 2 Audit prettify python script. This (very simple) script uses beautifulsoup4 to 
+extract the relevant text of an HTML source document while attempting to leave elements
+that make the result a readable HTML document.
+
 
 
 Installation
